@@ -1,0 +1,10 @@
+*.class
+*.ctxt
+package.bluej
+out/
+bin/
+data/
+.idea/
+*.iml
+.vscode/
+appointment_report.txt
